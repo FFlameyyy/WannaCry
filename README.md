@@ -4,7 +4,7 @@
 
 ### What is WannaCry for iOS?
 #### WannaCry for iOS is a viruse.
-#### This viruse has all of your files downloaded and sent to a server. It also has all important data such as saved passwords, iOS Password, Wifi Passwords, and every action is going to be loggedlogged.
+#### This viruse has all of your files downloaded and sent to a server. It also has all important data such as saved passwords, iOS Password, Wifi Passwords, and every action you do is going to be logged.
 #### The infector also has full control of your device.
 
 ### How can i remove it?
