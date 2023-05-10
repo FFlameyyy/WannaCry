@@ -13,7 +13,7 @@
 #### This means that you will have WannaCry on this device and other devices that you log in with using your apple ID.
 #### If they do, it will show up here usally costing between 200-1,000 dollars USD worth of bitcoin for removal software.
 
-### Paid removal software
+### Paid 30 minute removal software
 #### You can also use this paid software to remove the viruse for 10 minutes.
 #### This is a only one time use and will cost 200 dollars.
-#### Get the paid 10 minute removal software for a one time use [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+#### Get the paid 30 minute removal software for a one time use [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
