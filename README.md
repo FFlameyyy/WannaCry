@@ -17,3 +17,4 @@
 #### You can also use this paid software to remove the viruse for 30 minutes.
 #### This is a only one time use and will cost 200 dollars.
 #### Get the paid 30 minute removal software for a one time use [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+######JK
